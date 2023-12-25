@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is demo
 <br>
-Author - Manthan Nagose
+Author - Manthan (manthu) Nagose
